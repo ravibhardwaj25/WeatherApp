@@ -1,7 +1,7 @@
 
 # Weather Application
 
-## The Weather application using tkinter. The GUI app will provide information about temperature, latitude, longitude, date, time, year, country of origin, and other details about the current weather of a particular city with their country
+## The Weather application using tkinter. The GUI app will provide information about Weather, Weather Description, Temperature, Pressure, Humidity, Wind speed, of a particular city with their country
 
 * Open Code Folder in Python IDEs
 
